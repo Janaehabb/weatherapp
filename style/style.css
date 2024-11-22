@@ -1,0 +1,18 @@
+.bg-main-color{
+    background-color: #1E202B;
+   
+}
+.bg-sec-color{
+    background-color: #323544;
+}
+.text-light-blue{
+    color: #4C99CA;
+}
+.text-op{
+    color: #BFC1C8;
+}
+body{
+    background-image: url(../imgs/banner.png);
+    background-position:center ;
+    opacity: 0.9;
+}
